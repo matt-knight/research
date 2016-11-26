@@ -3,3 +3,6 @@ October 18, 2016
 Article in Travis Goodspeed's PoC||GTFO 0x13
 
 A detailed look into how I reverse engineered the wireless LoRa PHY layer, with emphasis placed on the challenges and pitfalls encountered along the way.
+
+MD5    (pocorgtfo13.pdf) = 1f019532beb6db4b234b3f328d4fa68e
+SHA256 (pocorgtfo13.pdf) = c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5
