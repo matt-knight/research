@@ -1,0 +1,5 @@
+Reverse Engineering the LoRa PHY
+October 18, 2016
+Article in Travis Goodspeed's PoC||GTFO 0x13
+
+A detailed look into how I reverse engineered the wireless LoRa PHY layer, with emphasis placed on the challenges and pitfalls encountered along the way.
