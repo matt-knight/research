@@ -3,3 +3,10 @@ April 13, 2017
 Hack in the Box Amsterdam Commsec @ Grand Hotel Krasnapolsky, Amsterdam, Netherlands
 
 Official Video: https://www.youtube.com/watch?v=QeoGQwT0Z1Y
+
+Instructional series about how to reverse engineer RF physical layers.
+
+Devices / PHYs covered:
+- FSK (Camera Flash Controller)
+- OOK (Wireless LED Controller)
+- TDMA FSK (Wireless Keyboard)

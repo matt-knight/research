@@ -3,3 +3,10 @@ January 14, 2017
 Shmoocon @ Washington Hilton, Washington, DC
 
 Youtube Mirror: https://www.youtube.com/watch?v=L3udJnRe4vc
+
+Instructional series about how to reverse engineer RF physical layers.
+
+Devices / PHYs covered:
+- FSK (Z-Wave)
+- OOK (Wireless Doorbell)
+- TDMA FSK (Wireless Keyboard)
